@@ -1,4 +1,9 @@
+## Temp files and executables
 #*
 *~
 *#
 *.pyc
+
+## Folders
+data/
+.ipynb_checkpoints/
